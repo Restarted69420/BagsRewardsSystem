@@ -1,0 +1,14 @@
+{
+  "wallets": [
+    {
+      "wallet": "0x123",
+      "tokens": 500000,
+      "nfts": 3
+    },
+    {
+      "wallet": "0xabc",
+      "tokens": 1200000,
+      "nfts": 25
+    }
+  ]
+}
